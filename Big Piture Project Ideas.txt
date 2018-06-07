@@ -1,0 +1,22 @@
+- Analyze one's own speech for tone/sentiment/word overuse
+	Potentially as part of an app or using data from app's already colleting personal data
+
+- Summarize online persona (dating app-esque, but the person is defined by their history of actions)
+	Maybe start with Instagram to get text + speech + visual analysis, add integration with Facebook and LinkedIn
+
+- Find water spots in surf photos
+	Start with just flagging, then move to auto-fixing
+
+- Teach a compter to play checkers
+	Have it get really good by playing itself (DOTA 2, AlphaGO, etc)
+
+- An app that takes in a video and tells how strong the ripcurrent is and in which direction
+	Determine if water is safe to go deep in
+
+
+To learn:
+1) Text analysis (esp. sentiment)
+
+TBD) Visual analysis (e.g. recognize dog breed)
+TBD) Audio analysis (e.g. understand voice commands)
+TBD) Self-learning (serious machine learning, e.g. DOTA 2)
