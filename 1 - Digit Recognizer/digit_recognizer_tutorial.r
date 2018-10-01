@@ -44,7 +44,7 @@ sample <- sample(1:nrow(train),50)
 var <- t(train[sample,-1])
 # Convert row of grayscale values to matrices
 var_matrix <- lapply(1:50,function(x) matrix(var[,x],ncol=28))
-# Set some graphcial parameters
+# Set some graphcial parameters relating to margin size
 opar <- par(no.readonly = T)
 par(mfrow=c(5,10),mar=c(.1,.1,.1,.1))
 # For each of the samples, reverse/revolve the matrix then run the image() function.
